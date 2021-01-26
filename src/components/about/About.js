@@ -1,9 +1,9 @@
 import React from 'react';
 
 
-import Skillcard from '../Skillcard';
+import Skillcard from './../Skillcard';
 import { motion } from 'framer-motion'
-import skills from '../data/about_data'
+import skills from './../data/about_data'
 import './about.css'
 
 const About = () => {
