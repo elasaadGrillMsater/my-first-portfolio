@@ -40,12 +40,12 @@ const Resume = () => {
                     </h4>
                     <div className="resume-card__body">
                         <h5 className="resume-card__title">
-                            Computer Science Enginnering
+                            Computer Science
                         </h5>
                         <p className="resume-card__name">
-                            Academy of Technology(2017-2021)
+                            Ecole superieur de technologie de Safi(2018-2020)
                         </p>
-                        <p className="resume-card__details">I am currently persuing B.tech in Computer Science Engineering from Academy of Technology</p>
+                        <p className="resume-card__details">-graduated from ESTs with a computer sience degree (networks administration) <br/> -Conception et analyse avec la methode de merise <br/> -C/C++ , JAVA , PHP , SQL/PostgreSQL ,HTML/Css/JavaScript </p>
                     </div>
                 </div>
                 <div className="col-lg-6 resume-card" >
@@ -57,9 +57,10 @@ const Resume = () => {
                             Intern
                         </h5>
                         <p className="resume-card__name">
-                            TCS (2020)
+                            -Marsa Maroc (web application for file sharing) (2019)
+                            <br/>-Ecole superieur de technologie de Safi (machine learning research with R) (2020)
                         </p>
-                        <p className="resume-card__details">I work as a intern in TCS and also completed some projects on testing</p>
+                        <p className="resume-card__details">the internships combined lasted (12weeks), i developped a web app for sharing files via PHP (2019), Researched clustering for predictive analysis using R (2020) </p>
                     </div>
                 </div>
             </div>

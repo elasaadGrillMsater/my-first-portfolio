@@ -5,12 +5,27 @@ const languages = [
     {
         icon: python,
         name: 'Python',
-        level: '45'
+        level: '65'
     },
     {
         icon: react,
-        name: 'Java',
-        level: '60'
+        name: 'Java/C++',
+        level: '50'
+    },
+    {
+        icon: react,
+        name: 'PHP',
+        level: '50'
+    },
+    {
+        icon: react,
+        name: 'SQL/PostgreSQL',
+        level: '50'
+    },
+    {
+        icon: react,
+        name: 'MongoDB',
+        level: '50'
     },
     {
         icon: react,
@@ -20,40 +35,41 @@ const languages = [
     {
         icon: react,
         name: 'react',
-        level: '60'
+        level: '80'
     },
+
     {
         icon: react,
-        name: 'Django',
+        name: 'JavaScrip',
         level: '80'
     },
     {
         icon: react,
-        name: 'Bootstrap',
+        name: 'NodeJS',
         level: '80'
-    }
+    },
 ]
 
 const tools = [
     {
         icon: react,
-        name: 'Figma',
-        level: '85'
-    },
-    {
-        icon: react,
-        name: 'Photoshop',
-        level: '45'
-    },
-    {
-        icon: react,
-        name: 'Illustrator',
+        name: 'Rstudio',
         level: '60'
     },
     {
         icon: react,
-        name: 'Framer',
-        level: '45'
+        name: 'MatLab',
+        level: '30'
+    },
+    {
+        icon: react,
+        name: 'Office',
+        level: '70'
+    },
+    {
+        icon: react,
+        name: 'latex',
+        level: '50'
     },
 
 ]

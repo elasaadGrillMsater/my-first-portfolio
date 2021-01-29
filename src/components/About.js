@@ -1,5 +1,4 @@
 import React from 'react';
-import api from '../assets/icons/api.svg'
 import backend from '../assets/icons/backend.svg'
 import algo from '../assets/icons/algo.svg'
 import computer from '../assets/icons/computer.svg'
@@ -12,32 +11,32 @@ const skills = [
     {
         icon: computer,
         title: "Frontend Development",
-        about: "I can build a beautiful and scalable SPA using HTML, CSS and React.js"
+        about: "I can build a well structured, clean and effcient SPA using HTML, CSS and React.js"
     },
     {
         icon: repair,
         title: "Backend  Development",
-        about: "handle database, server, api using and SQLlite",
+        about: "servers, handling databases ...",
     },
     {
-        icon: api,
-        title: "API Development",
-        about: "I can develop robust REST API using django-rest-api "
+        icon: backend,
+        title: "Desktop development",
+        about: "I can develop desktop apps using java, javascript(electron.js) "
     },
     {
         icon: algo,
         title: "Competitive Coder",
-        about: "a daily problem solver in HackerRank and Leetcode"
+        about: "a daily problem solver in Codewars.com (level:5kyu) "
     },
     {
         icon: puzzle,
-        title: "UI/UX designer",
-        about: "minimalistic user interface designer using figma and  framer"
+        title: "Mobile app develoment",
+        about: "minimalistic mobile development using react-native "
     },
     {
         icon: computer,
-        title: "Whatever",
-        about: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis minima autem!"
+        title: "networking",
+        about: "local network management and administration "
     },
 ]
 
@@ -69,7 +68,7 @@ const About = () => {
             exit="exit"
         >
             <h6 className="about__intro">
-                I describe myself as someone who's persistant, a quick learner and loves problem solving by using simple and scalable solutions.
+                I see myself as someone who's persistant, a quick learner and loves problem solving and enjoys building simple and detailed projects.
             </h6>
             <div className="container about__container">
                 <h6 className="about__heading">What I offer</h6>
