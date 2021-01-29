@@ -39,7 +39,7 @@ const Projects = () => {
             exit="exit"
 
         >
-
+            <b style={{color:'red'}}>click on the projects to see them</b>
             <div className="projects__navbar">
                 <div className={active === 'All' && 'projects__navbar-active'} onClick={
                     () => {
